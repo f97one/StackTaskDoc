@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to StackTask's documentation!
-=====================================
+StackTask 設計文書
+==================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目次:
+   :numbered:
 
-
+   requirements
+   transition
 
 Indices and tables
 ==================
