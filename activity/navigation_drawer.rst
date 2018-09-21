@@ -52,6 +52,8 @@ NavigationDrawer
 イベント処理
 ============
 
+.. _initialize_navigation_drawer:
+
 初期化
 ------
 
