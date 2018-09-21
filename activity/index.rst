@@ -6,3 +6,6 @@
    :maxdepth: 1
 
    navigation_drawer
+   abstract_app_activity
+   login_activity
+   
