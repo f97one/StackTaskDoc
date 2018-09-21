@@ -13,6 +13,7 @@ StackTask 設計文書
 
    requirements
    transition
+   api/index
    activity/index
 
 Indices and tables
