@@ -20,6 +20,8 @@ Activity基底クラス
 
 #. :ref:`initialize_navigation_drawer` にある ``NavigationDrawer`` 初期化処理を行う。
 
+.. _get_realtime_database:
+
 Realtime Database 取得
 ----------------------
 
