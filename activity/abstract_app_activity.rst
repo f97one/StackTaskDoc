@@ -19,3 +19,10 @@ Activity基底クラス
 ------
 
 #. :ref:`initialize_navigation_drawer` にある ``NavigationDrawer`` 初期化処理を行う。
+
+Realtime Database 取得
+----------------------
+
+#. ``FirebaseDatabase.getInstance()`` を実行し、 ``FirebaseDatabase`` を取得する。
+#. ``setPersistenceEnabled(true)`` を実行し、永続化を有効にする。
+#. ``getReference()`` を実行し、 ``DatabaseReference`` を取得する。
