@@ -17,6 +17,7 @@ Firebase Realtime Database に保存される、全体の JSON 構造を示す�
                    "taskName": タスク名,
                    "dueDate": 期日,
                    "priority": 優先度,
+                   "taskDetail": タスク詳細,
                    "finished": 完了チェック,
                    "createdAt": レコード作成日,
                    "updatedAt": レコード更新日

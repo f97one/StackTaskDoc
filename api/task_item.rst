@@ -65,6 +65,14 @@
      - 1
      - 
      - タスクの優先度、1～3で表現
+   * - taskDetail
+     - タスク詳細
+     - String(length = 200)
+     - -
+     - なし
+     - -
+     - -
+     - タスクの詳細
    * - finished
      - 完了チェック
      - Boolean
