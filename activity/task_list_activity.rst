@@ -96,7 +96,7 @@
 ------
 
 #. | レイアウトXMLを展開後、Viewをinjectする。
-   | ※ `androidx` で行う。
+   | ※ ``androidx`` で行う。
 #. | Firebase Realtime Database から、同期できていないユーザーのタスクを取得する。
    | ※ :ref:`get_realtime_database` により取得時に自動的に処理される。
 #. ``SharedPreference`` からデフォルトの並び順を取得する。
