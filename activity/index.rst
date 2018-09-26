@@ -9,3 +9,4 @@
    abstract_app_activity
    login_activity
    task_list_activity
+   task_editor_activity
