@@ -10,3 +10,4 @@
    login_activity
    task_list_activity
    task_editor_activity
+   app_config_activity
