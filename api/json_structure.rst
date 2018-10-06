@@ -8,20 +8,19 @@ Firebase Realtime Database に保存される、全体の JSON 構造を示す�
    :linenos:
 
    {
-       "StackTask": {
-           "userId": ユーザーID,
-           "taskItems": [
-               "taskItem": {
-                   "taskId": タスクID,
-                   "userId": ユーザーID,
-                   "taskName": タスク名,
-                   "dueDate": 期日,
-                   "priority": 優先度,
-                   "taskDetail": タスク詳細,
-                   "finished": 完了チェック,
-                   "createdAt": レコード作成日,
-                   "updatedAt": レコード更新日
-               }
-           ]
-       }
+       "StackTask": [
+            "キー": {
+                "taskId": "タスクID",
+                "userId": "ユーザーID",
+                "taskName": "タスク名",
+                "dueDate": "期日",
+                "priority": "優先度",
+                "taskDetail": "タスク詳細",
+                "finished": "完了チェック",
+                "createdAt": "作成日",
+                "updatedAt": "更新日"
+            }
+        ]
    }
+
+Firebase Realtime Database の特性により、上記「キー」部分は一意のIDとなる通番が割り当てられる。
