@@ -27,7 +27,7 @@
      - コメント
    * - taskId
      - タスクID
-     - String(UUID)
+     - String(Firebase Key)
      - 1
      - あり
      - -
