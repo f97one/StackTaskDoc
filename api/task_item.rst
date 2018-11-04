@@ -33,14 +33,6 @@
      - -
      - -
      - タスクを一意に判別するID
-   * - userId
-     - ユーザーID
-     - String
-     - -
-     - あり
-     - ``FirebaseUser#uid``
-     - -
-     - タスクを所有するユーザー
    * - taskName
      - タスク名
      - String(length = 32)
